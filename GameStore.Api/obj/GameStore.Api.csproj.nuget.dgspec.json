@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DCS\\Learn\\AspNetCore\\projects\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
+    "C:\\DCS\\Learn\\AspNetCore\\projects\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "c:\\DCS\\Learn\\AspNetCore\\projects\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
+    "C:\\DCS\\Learn\\AspNetCore\\projects\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DCS\\Learn\\AspNetCore\\projects\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\DCS\\Learn\\AspNetCore\\projects\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "c:\\DCS\\Learn\\AspNetCore\\projects\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "C:\\DCS\\Learn\\AspNetCore\\projects\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\cdondap\\.nuget\\packages\\",
-        "outputPath": "c:\\DCS\\Learn\\AspNetCore\\projects\\GameStore\\GameStore.Api\\obj\\",
+        "outputPath": "C:\\DCS\\Learn\\AspNetCore\\projects\\GameStore\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
