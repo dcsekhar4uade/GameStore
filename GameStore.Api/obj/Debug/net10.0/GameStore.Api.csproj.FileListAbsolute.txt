@@ -26,3 +26,32 @@ C:\DCS\Learn\AspNetCore\projects\GameStore\GameStore.Api\obj\Debug\net10.0\refin
 C:\DCS\Learn\AspNetCore\projects\GameStore\GameStore.Api\obj\Debug\net10.0\GameStore.Api.pdb
 C:\DCS\Learn\AspNetCore\projects\GameStore\GameStore.Api\obj\Debug\net10.0\GameStore.Api.genruntimeconfig.cache
 C:\DCS\Learn\AspNetCore\projects\GameStore\GameStore.Api\obj\Debug\net10.0\ref\GameStore.Api.dll
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\bin\Debug\net10.0\appsettings.Development.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\bin\Debug\net10.0\appsettings.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\bin\Debug\net10.0\GameStore.Api.staticwebassets.endpoints.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\bin\Debug\net10.0\GameStore.Api.exe
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\bin\Debug\net10.0\GameStore.Api.deps.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\bin\Debug\net10.0\GameStore.Api.runtimeconfig.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\bin\Debug\net10.0\GameStore.Api.dll
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\bin\Debug\net10.0\GameStore.Api.pdb
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\GameStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\GameStore.Api.AssemblyInfoInputs.cache
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\GameStore.Api.AssemblyInfo.cs
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\GameStore.Api.csproj.CoreCompileInputs.cache
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\GameStore.Api.sourcelink.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\scopedcss\bundle\GameStore.Api.styles.css
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\GameStore.Api.dll
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\refint\GameStore.Api.dll
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\GameStore.Api.pdb
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\GameStore.Api.genruntimeconfig.cache
+C:\DCS\Learning\DotNet Core\GameStore\GameStore\GameStore.Api\obj\Debug\net10.0\ref\GameStore.Api.dll
