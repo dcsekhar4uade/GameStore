@@ -1,1 +1,36 @@
 GET http://localhost:5257
+
+###
+
+GET http://localhost:5257/games
+
+###
+
+GET http://localhost:5257/games/2
+
+###
+
+POST http://localhost:5257/games
+Content-Type: application/json
+
+{
+    "Name":"Super Mario",
+    "Genre":"Platformer",
+    "Price":59.99,
+    "releaseDate":"2023-10-20"
+}
+
+###
+
+PUT http://localhost:5257/games/2
+Content-Type: application/json
+
+{
+        "Name":"Street Fighter Original",
+        "Genre":"Action 2",
+        "Price":11.99,
+        "ReleaseDate":"1989-07-07"
+}
+
+###
+DELETE http://localhost:5257/games/2
