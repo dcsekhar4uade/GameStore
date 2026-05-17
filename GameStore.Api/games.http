@@ -1,0 +1,33 @@
+GET http://localhost:5257/games
+
+###
+
+GET http://localhost:5257/games/1
+
+###
+
+POST http://localhost:5257/games
+Content-Type: application/json
+
+{
+    "name": "Street Fighter III Turbo",
+    "genreId": 2,
+    "price": 10.99,
+    "releaseDate": "1996-10-10"
+}
+
+###
+
+PUT http://localhost:5257/games/1
+Content-Type: application/json
+
+{
+    "name": "Street Fighter II Turbo (Updated)",
+    "genreId": 3,
+    "price": 12.99,
+    "releaseDate": "1992-07-15"
+}
+
+###
+
+DELETE http://localhost:5257/games/1

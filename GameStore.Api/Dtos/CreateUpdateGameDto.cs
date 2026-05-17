@@ -6,8 +6,8 @@ public record CreateUpdateGameDto(
     [Required][MaxLength(100)]
     string Name,
 
-    [Required][MaxLength(100)]
-    string Genre,
+    [Range(1,50)]
+    int GenreId,
 
     [Required][Range(1,100)]
     decimal Price,
